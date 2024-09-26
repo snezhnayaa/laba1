@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\3\u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\\u043B\u04404\\lr4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56153876-D20E-4EA7-BE94-45D8C7C76F5B}|lr4\\lr4.csproj|e:\\3\u043A\u0443\u0440\u0441\\\u0440\u043F\u043C\\\u043B\u04404\\lr4\\lr4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56153876-D20E-4EA7-BE94-45D8C7C76F5B}|lr4\\lr4.csproj|solutionrelative:lr4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\3\u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\\u043B\u04404\\lr4\\lr4\\Program.cs",
+              "RelativeDocumentMoniker": "lr4\\Program.cs",
+              "ToolTip": "E:\\3\u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\\u043B\u04404\\lr4\\lr4\\Program.cs",
+              "RelativeToolTip": "lr4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:56:13.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\РПМ\лр4\lr4\lr4\bin\Debug\net8.0\lr4.exe
+E:\РПМ\лр4\lr4\lr4\bin\Debug\net8.0\lr4.deps.json
+E:\РПМ\лр4\lr4\lr4\bin\Debug\net8.0\lr4.runtimeconfig.json
+E:\РПМ\лр4\lr4\lr4\bin\Debug\net8.0\lr4.dll
+E:\РПМ\лр4\lr4\lr4\bin\Debug\net8.0\lr4.pdb
+E:\РПМ\лр4\lr4\lr4\obj\Debug\net8.0\lr4.GeneratedMSBuildEditorConfig.editorconfig
+E:\РПМ\лр4\lr4\lr4\obj\Debug\net8.0\lr4.AssemblyInfoInputs.cache
+E:\РПМ\лр4\lr4\lr4\obj\Debug\net8.0\lr4.AssemblyInfo.cs
+E:\РПМ\лр4\lr4\lr4\obj\Debug\net8.0\lr4.csproj.CoreCompileInputs.cache
+E:\РПМ\лр4\lr4\lr4\obj\Debug\net8.0\lr4.dll
+E:\РПМ\лр4\lr4\lr4\obj\Debug\net8.0\refint\lr4.dll
+E:\РПМ\лр4\lr4\lr4\obj\Debug\net8.0\lr4.pdb
+E:\РПМ\лр4\lr4\lr4\obj\Debug\net8.0\lr4.genruntimeconfig.cache
+E:\РПМ\лр4\lr4\lr4\obj\Debug\net8.0\ref\lr4.dll
